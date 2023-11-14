@@ -7,7 +7,7 @@ Analyse the bike sales data and produse a bashboard with information stakeholder
 Bike stores sales [dataset](https://www.sqlservertutorial.net/load-sample-database/)
 
 ### Tools
-- Microsoft SQL Server 2019 for data analysis - [SQL scripts]()
+- Microsoft SQL Server 2019 for data analysis - [SQL scripts](https://github.com/GabrielR422/Bike-Sales-Analysis/blob/main/BikeSales.sql)
 - Tableau for data visualisation - [Dashboard](https://public.tableau.com/app/profile/gabriel3942/viz/BikeStoresDB/Dashboard1)
 - Excel for creating PivotTables and DashBoard - [View](https://github.com/GabrielR422/Bike-Sales-Analysis/blob/main/BikeSales.xlsx)
 
